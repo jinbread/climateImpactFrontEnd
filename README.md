@@ -1,2 +1,0 @@
-# climateImpactFrontEnd
-Created with CodeSandbox
